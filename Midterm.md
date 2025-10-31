@@ -6,6 +6,3 @@ Regular Expressions
 Go program
 
 Sentence Definition: A sentence is anything that the grammar generates.
-
-
-obama.

@@ -11,10 +11,14 @@
             "id": "1bddccfb7e63bc44",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Midterm.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Midterm"
             }
           }
         ]
@@ -101,6 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Midterm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +115,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Midterm"
             }
           },
           {
@@ -119,11 +124,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Midterm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Midterm"
             }
           },
           {
@@ -170,7 +176,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "891c0f402dadeb07",
+  "active": "1bddccfb7e63bc44",
   "lastOpenFiles": [
     "Class Notes/Merp/Merp.md",
     "Class Notes/Class Notes.md",

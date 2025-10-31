@@ -4,63 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "734fd68139fa107c",
+        "id": "02dd9afed3f44b4e",
         "type": "tabs",
         "children": [
           {
-            "id": "a3f132f9fb3f89ae",
+            "id": "1bddccfb7e63bc44",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chapter 5/Introduction.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Introduction"
-            }
-          },
-          {
-            "id": "3fd93df8e0348fbc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chapter 5/Variables.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Variables"
-            }
-          },
-          {
-            "id": "a12adcdc84effdc1",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "45fafc6f8d659e80",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Midterm.md",
-                "mode": "source",
-                "source": false
-              },
               "icon": "lucide-file",
-              "title": "Midterm"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -112,8 +69,19 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
+          },
+          {
+            "id": "891c0f402dadeb07",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {},
+              "icon": "layout-grid",
+              "title": "Navigator"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -133,7 +101,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +110,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Welcome"
+              "title": "Backlinks"
             }
           },
           {
@@ -152,12 +119,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Midterm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Midterm"
+              "title": "Outgoing links"
             }
           },
           {
@@ -176,16 +142,6 @@
             }
           },
           {
-            "id": "716b3dbeb145d060",
-            "type": "leaf",
-            "state": {
-              "type": "graph-analysis",
-              "state": {},
-              "icon": "GA-ICON",
-              "title": "Graph Analysis"
-            }
-          },
-          {
             "id": "0d0deff666918374",
             "type": "leaf",
             "state": {
@@ -196,7 +152,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -214,13 +170,27 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0d0deff666918374",
+  "active": "891c0f402dadeb07",
   "lastOpenFiles": [
-    "Chapter 5/Variables.md",
-    "Chapter 5/Introduction.md",
+    "Class Notes/Merp/Merp.md",
+    "Class Notes/Class Notes.md",
+    "Untitled.md",
+    "Class Notes/Merp",
+    "Class Notes/Slides/Slides.md",
+    "Class Notes/Slides",
+    "Class Notes",
+    "Textbook/Textbook.md",
     "Midterm.md",
+    "Tags",
+    "Class/Slides 1",
+    "Class",
+    "Textbook",
+    "Textbook/Chapter 4",
+    "Textbook/Chapter 3",
+    "Textbook/Chapter 2",
+    "Textbook/Chapter 5/Variables.md",
+    "Textbook/Chapter 5/Introduction.md",
     "Names.md",
-    "Welcome.md",
-    "Chapter 5"
+    "Welcome.md"
   ]
 }

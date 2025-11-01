@@ -75,7 +75,7 @@
             }
           },
           {
-            "id": "891c0f402dadeb07",
+            "id": "a46098c174ce5739",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -155,6 +155,21 @@
               "state": {},
               "icon": "git-pull-request",
               "title": "Source Control"
+            }
+          },
+          {
+            "id": "04e1a5e343305a6b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Midterm.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Midterm"
             }
           }
         ],

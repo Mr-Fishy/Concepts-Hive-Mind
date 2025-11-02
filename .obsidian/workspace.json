@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "15d1d1289ea41c58",
+        "id": "4b9a348e30cb54ba",
         "type": "tabs",
         "children": [
           {
-            "id": "8dd58435f88ca2c4",
+            "id": "dafa4e22b22cae87",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -177,8 +177,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 340.5,
-    "collapsed": true
+    "width": 340.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -192,12 +191,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8dd58435f88ca2c4",
+  "active": "dafa4e22b22cae87",
   "lastOpenFiles": [
-    "Textbook/Chapter 3/3.2.md",
-    "Textbook/Chapter 3/3.4.md",
     "Textbook/Chapter 3/3.3.md",
     "Textbook/Chapter 1/1.2.md",
+    "Textbook/Chapter 3/3.2.md",
+    "Textbook/Chapter 3/3.4.md",
     "Textbook/Chapter 1/1.1.md",
     "language constructs.md",
     "Textbook/Chapter 3/3.5.md",

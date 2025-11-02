@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "87805be9dcd7bbb1",
+        "id": "6f5e606312f48650",
         "type": "tabs",
         "children": [
           {
-            "id": "e9a2863320a69589",
+            "id": "471df6828a1730d5",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -71,7 +71,7 @@
             }
           },
           {
-            "id": "56971e09aba04908",
+            "id": "1b9cc06b16b52433",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -187,29 +187,29 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e9a2863320a69589",
+  "active": "0d0deff666918374",
   "lastOpenFiles": [
+    "Textbook/Chapter 1/Chapter 1.md",
     "Textbook/Chapter 1/1.1.md",
-    "conflict-files-obsidian-git.md",
+    "Textbook/Chapter 1/1.2.md",
+    "Midterm.md",
     "Textbook/Chapter 5/Introduction.md",
     "Textbook/Chapter 5/Variables.md",
-    "Textbook/Chapter 1/1.6.md",
-    "Textbook/Chapter 1/1.2.md",
-    "Textbook/Concepts of Programming Languages.md",
+    "Class Notes/Slides/Programming Language Evaluation.md",
     "Class Notes/Slides/Types of Languages.md",
     "Class Notes/Slides/Programming Domains.md",
-    "Class Notes/Slides/Programming Language Evaluation.md",
-    "Midterm.md",
+    "Textbook/Concepts of Programming Languages.md",
+    "Textbook/Chapter 1/1.8.md",
+    "Textbook/Chapter 1/1.5.md",
+    "conflict-files-obsidian-git.md",
+    "Textbook/Chapter 1/1.6.md",
     "excalibrain.md",
     "Excalidraw/ExcaliBrain Snapshot - 1.1.excalidraw.md",
-    "Textbook/Chapter 1/Chapter 1.md",
     "Textbook/Textbook.md",
     "Excalidraw/ExcaliBrain Snapshot - ExcaliBrain Snapshot - 1.1.excalidraw.excalidraw.md",
     "Excalidraw/Drawing 2025-11-02 11.57.25.excalidraw.md",
     "Excalidraw",
-    "Textbook/Chapter 1/1.8.md",
     "Textbook/Chapter 1/1.7.md",
-    "Textbook/Chapter 1/1.5.md",
     "Textbook/Chapter 1/1.4.md",
     "Textbook/Chapter 1/1.3.md",
     "Textbook/Chapter 1",

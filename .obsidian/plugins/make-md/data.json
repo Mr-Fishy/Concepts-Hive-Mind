@@ -43,11 +43,10 @@
     "//Textbook",
     "//Class Notes",
     "//Class Notes/Class Notes/Merp",
-    "//Textbook/Textbook/Chapter 5",
     "//Class Notes/Class Notes/Slides",
-    "//Textbook/Textbook/Chapter 1",
     "//Excalidraw",
-    "//Textbook/Textbook/Chapter 3"
+    "//Textbook/Textbook/Chapter 3",
+    "//Textbook/Textbook/Chapter 1"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
@@ -62,8 +61,6 @@
     "_assets",
     "_blocks"
   ],
-  "newFileLocation": "root",
-  "newFileFolderPath": "",
   "inlineBacklinks": false,
   "inlineContext": true,
   "inlineBacklinksExpanded": false,

@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c639a7bf9a07d7bc",
+        "id": "6ccedb5614d29285",
         "type": "tabs",
         "children": [
           {
-            "id": "c012ee53ea0da06b",
+            "id": "cd288dd3f5aaa2c6",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -187,16 +187,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1b9cc06b16b52433",
+  "active": "0d0deff666918374",
   "lastOpenFiles": [
+    "Textbook/Chapter 3/3.3.md",
+    "Textbook/Chapter 3/3.4.md",
+    "conflict-files-obsidian-git.md",
     "Textbook/Chapter 3/Chapter 3.md",
     "Textbook/Chapter 3/3.5.md",
-    "Textbook/Chapter 3/3.4.md",
-    "Textbook/Chapter 3/3.3.md",
     "Textbook/Chapter 3/3.2.md",
     "Textbook/Chapter 3/3.1.md",
     "Textbook/Chapter 3",
-    "conflict-files-obsidian-git.md",
     "Textbook/Chapter 1/Chapter 1.md",
     "Textbook/Chapter 1/1.1.md",
     "Textbook/Chapter 1/1.2.md",

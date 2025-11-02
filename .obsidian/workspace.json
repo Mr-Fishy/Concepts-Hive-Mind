@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a3e63ece65c750ce",
+        "id": "39206094bec2ff59",
         "type": "tabs",
         "children": [
           {
-            "id": "ca1eed55e519bebd",
+            "id": "3ca3a9cfa49b815e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -211,8 +211,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ca1eed55e519bebd",
+  "active": "3ca3a9cfa49b815e",
   "lastOpenFiles": [
+    "Class Notes/Slides/Types of Languages.md",
+    "Class Notes/Slides/Programming Language Evaluation.md",
+    "Class Notes/Slides/Slides.md",
+    "Class Notes/Slides/Programming Domains.md",
+    "Textbook/Chapter 3/3.3.md",
     "Textbook/Chapter 3/3.2.md",
     "Textbook/Chapter 1/1.1.md",
     "compiler.md",
@@ -222,12 +227,7 @@
     "conflict-files-obsidian-git.md",
     "Textbook/Chapter 1/1.2.md",
     "Textbook/Chapter 3/3.1.md",
-    "Textbook/Chapter 3/3.3.md",
     "Textbook/Chapter 1/Chapter 1.md",
-    "Class Notes/Slides/Types of Languages.md",
-    "Class Notes/Slides/Slides.md",
-    "Class Notes/Slides/Programming Language Evaluation.md",
-    "Class Notes/Slides/Programming Domains.md",
     "Textbook/Chapter 1/1.3.md",
     "Textbook/Chapter 1/1.4.md",
     "Textbook/Chapter 1/1.5.md",

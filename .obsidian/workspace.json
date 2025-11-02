@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Textbook/Chapter 3/3.3.md",
+                "file": "conflict-files-obsidian-git.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3.3"
+              "title": "conflict-files-obsidian-git"
             }
           }
         ]
@@ -213,8 +213,8 @@
   },
   "active": "3ca3a9cfa49b815e",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "Textbook/Chapter 3/3.3.md",
+    "conflict-files-obsidian-git.md",
     "Textbook/Chapter 5/Variables.md",
     "Class Notes/Slides/Types of Languages.md",
     "Class Notes/Slides/Programming Language Evaluation.md",

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Textbook/Chapter 5/Variables.md",
+                "file": "Textbook/Chapter 3/3.3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Variables"
+              "title": "3.3"
             }
           }
         ]
@@ -213,6 +213,7 @@
   },
   "active": "3ca3a9cfa49b815e",
   "lastOpenFiles": [
+    "Textbook/Chapter 5/Variables.md",
     "Textbook/Chapter 3/3.3.md",
     "Class Notes/Slides/Types of Languages.md",
     "Class Notes/Slides/Programming Language Evaluation.md",
@@ -239,7 +240,6 @@
     "Textbook/Chapter 1/1.8.md",
     "Textbook/Chapter 1/1.6.md",
     "Textbook/Concepts of Programming Languages.md",
-    "Textbook/Chapter 1/1.7.md",
     "Textbook/Chapter 1",
     "Textbook/Chapter 5",
     "Textbook",

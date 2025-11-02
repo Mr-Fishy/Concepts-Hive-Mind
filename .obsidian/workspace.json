@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "51facd11fffc74e0",
+        "id": "a3e63ece65c750ce",
         "type": "tabs",
         "children": [
           {
-            "id": "b945361ac23383be",
+            "id": "ca1eed55e519bebd",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Textbook/Chapter 1/1.1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1.1"
             }
           }
         ]
@@ -207,16 +211,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b945361ac23383be",
+  "active": "ca1eed55e519bebd",
   "lastOpenFiles": [
+    "Textbook/Chapter 1/1.2.md",
+    "compiler.md",
+    "Textbook/Chapter 3/3.2.md",
+    "Textbook/Chapter 3/3.1.md",
     "Textbook/Chapter 1/1.1.md",
     "language constructs.md",
-    "Textbook/Chapter 1/1.2.md",
     "object-oriented programming.md",
     "Textbook/Chapter 3/3.3.md",
     "conflict-files-obsidian-git.md",
-    "Textbook/Chapter 3/3.2.md",
-    "Textbook/Chapter 3/3.1.md",
     "Textbook/Chapter 1/Chapter 1.md",
     "Class Notes/Slides/Types of Languages.md",
     "Class Notes/Slides/Slides.md",
@@ -236,7 +241,6 @@
     "Textbook/Concepts of Programming Languages.md",
     "Textbook/Chapter 1/1.7.md",
     "Textbook/Chapter 1",
-    "Textbook/Chapter 5/Variables.md",
     "Textbook/Chapter 5",
     "Textbook",
     "Class Notes/Slides",

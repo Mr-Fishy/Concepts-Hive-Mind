@@ -177,7 +177,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 340.5
+    "width": 340.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -191,18 +192,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dafa4e22b22cae87",
+  "active": "1b9cc06b16b52433",
   "lastOpenFiles": [
-    "Textbook/Chapter 3/3.3.md",
     "Textbook/Chapter 1/1.2.md",
-    "Textbook/Chapter 3/3.2.md",
-    "Textbook/Chapter 3/3.4.md",
-    "Textbook/Chapter 1/1.1.md",
-    "language constructs.md",
+    "conflict-files-obsidian-git.md",
     "Textbook/Chapter 3/3.5.md",
+    "Textbook/Chapter 3/3.4.md",
+    "Textbook/Chapter 3/3.3.md",
+    "Textbook/Chapter 3/3.2.md",
+    "compiler.md",
+    "language constructs.md",
+    "object-oriented programming.md",
+    "Textbook/Chapter 1/1.1.md",
     "Midterm.md",
     "Textbook/Chapter 3/Chapter 3.md",
-    "conflict-files-obsidian-git.md",
     "Textbook/Chapter 3/3.1.md",
     "Textbook/Chapter 3",
     "Textbook/Chapter 1/Chapter 1.md",
@@ -218,8 +221,6 @@
     "excalibrain.md",
     "Excalidraw/ExcaliBrain Snapshot - 1.1.excalidraw.md",
     "Textbook/Textbook.md",
-    "Excalidraw/ExcaliBrain Snapshot - ExcaliBrain Snapshot - 1.1.excalidraw.excalidraw.md",
-    "Excalidraw/Drawing 2025-11-02 11.57.25.excalidraw.md",
     "Excalidraw",
     "Textbook/Chapter 1",
     "Class Notes/Merp",

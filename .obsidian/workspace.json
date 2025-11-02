@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6ccedb5614d29285",
+        "id": "15d1d1289ea41c58",
         "type": "tabs",
         "children": [
           {
-            "id": "cd288dd3f5aaa2c6",
+            "id": "8dd58435f88ca2c4",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -192,10 +192,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cd288dd3f5aaa2c6",
+  "active": "8dd58435f88ca2c4",
   "lastOpenFiles": [
-    "Textbook/Chapter 3/3.2.md",
+    "language constructs.md",
     "Textbook/Chapter 1/1.1.md",
+    "Textbook/Chapter 3/3.2.md",
     "Textbook/Chapter 3/3.3.md",
     "Textbook/Chapter 3/3.5.md",
     "Textbook/Chapter 3/3.4.md",
@@ -221,7 +222,6 @@
     "Excalidraw/ExcaliBrain Snapshot - ExcaliBrain Snapshot - 1.1.excalidraw.excalidraw.md",
     "Excalidraw/Drawing 2025-11-02 11.57.25.excalidraw.md",
     "Excalidraw",
-    "Textbook/Chapter 1/1.7.md",
     "Textbook/Chapter 1",
     "Class Notes/Merp",
     "Class Notes/Slides",

@@ -1,5 +1,7 @@
 [
   "obsidian-git",
   "make-md",
-  "better-mindmap"
+  "better-mindmap",
+  "obsidian-chartsview-plugin",
+  "dataview"
 ]

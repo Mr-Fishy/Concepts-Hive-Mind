@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Textbook/Chapter 1/1.1.md",
+                "file": "Textbook/Concepts of Programming Languages.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.1"
+              "title": "Concepts of Programming Languages"
             }
           }
         ]
@@ -75,7 +75,7 @@
             }
           },
           {
-            "id": "428b130bcd8e17b6",
+            "id": "56971e09aba04908",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -188,17 +188,15 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false,
-      "ai-tagger-universe:Analyze and tag current note": false,
-      "ai-tagger-universe:View tag relationships network": false
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "58db32f0444aa281",
   "lastOpenFiles": [
+    "Textbook/Chapter 1/1.1.md",
     "Textbook/Concepts of Programming Languages.md",
     "excalibrain.md",
     "Excalidraw/ExcaliBrain Snapshot - 1.1.excalidraw.md",
-    "Textbook/Chapter 1/1.1.md",
     "Textbook/Chapter 1/Chapter 1.md",
     "Textbook/Textbook.md",
     "Excalidraw/ExcaliBrain Snapshot - ExcaliBrain Snapshot - 1.1.excalidraw.excalidraw.md",

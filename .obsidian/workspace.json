@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "15d1d1289ea41c58",
+        "id": "51facd11fffc74e0",
         "type": "tabs",
         "children": [
           {
-            "id": "8dd58435f88ca2c4",
+            "id": "b945361ac23383be",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Textbook/Chapter 1/1.2.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1.2"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -53,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#syntax",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -75,7 +71,7 @@
             }
           },
           {
-            "id": "1b9cc06b16b52433",
+            "id": "162e931a974291f5",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -84,8 +80,7 @@
               "title": "Navigator"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -105,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Midterm.md",
+                "file": "Welcome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +110,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Midterm"
+              "title": "Backlinks for Welcome"
             }
           },
           {
@@ -148,17 +143,27 @@
             }
           },
           {
+            "id": "716b3dbeb145d060",
+            "type": "leaf",
+            "state": {
+              "type": "graph-analysis",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "graph-analysis"
+            }
+          },
+          {
             "id": "0d0deff666918374",
             "type": "leaf",
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-ghost",
+              "title": "git-view"
             }
           },
           {
-            "id": "04e1a5e343305a6b",
+            "id": "aa9319c84ba650d9",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -171,9 +176,19 @@
               "icon": "lucide-list",
               "title": "Outline of Midterm"
             }
+          },
+          {
+            "id": "2554c5add9b6f1db",
+            "type": "leaf",
+            "state": {
+              "type": "graph-analysis",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "graph-analysis"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -192,43 +207,40 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8dd58435f88ca2c4",
+  "active": "b945361ac23383be",
   "lastOpenFiles": [
     "Textbook/Chapter 1/1.1.md",
-    "Textbook/Chapter 3/3.2.md",
-    "Textbook/Chapter 3/3.4.md",
-    "Textbook/Chapter 3/3.3.md",
-    "Textbook/Chapter 1/1.2.md",
     "language constructs.md",
-    "Textbook/Chapter 3/3.5.md",
-    "Midterm.md",
-    "Textbook/Chapter 3/Chapter 3.md",
+    "Textbook/Chapter 1/1.2.md",
+    "object-oriented programming.md",
+    "Textbook/Chapter 3/3.3.md",
     "conflict-files-obsidian-git.md",
+    "Textbook/Chapter 3/3.2.md",
     "Textbook/Chapter 3/3.1.md",
-    "Textbook/Chapter 3",
     "Textbook/Chapter 1/Chapter 1.md",
-    "Textbook/Chapter 5/Introduction.md",
-    "Textbook/Chapter 5/Variables.md",
-    "Class Notes/Slides/Programming Language Evaluation.md",
     "Class Notes/Slides/Types of Languages.md",
+    "Class Notes/Slides/Slides.md",
+    "Class Notes/Slides/Programming Language Evaluation.md",
     "Class Notes/Slides/Programming Domains.md",
-    "Textbook/Concepts of Programming Languages.md",
-    "Textbook/Chapter 1/1.8.md",
+    "Textbook/Chapter 1/1.3.md",
+    "Textbook/Chapter 1/1.4.md",
     "Textbook/Chapter 1/1.5.md",
+    "Textbook/Chapter 3/3.5.md",
+    "Textbook/Chapter 3/3.4.md",
+    "Textbook/Chapter 3/Chapter 3.md",
+    "Textbook/Chapter 3",
+    "Textbook/Chapter 1/Untitled.md",
+    "Textbook/Chapter 1/1.8.md",
     "Textbook/Chapter 1/1.6.md",
-    "excalibrain.md",
-    "Excalidraw/ExcaliBrain Snapshot - 1.1.excalidraw.md",
-    "Textbook/Textbook.md",
-    "Excalidraw/ExcaliBrain Snapshot - ExcaliBrain Snapshot - 1.1.excalidraw.excalidraw.md",
-    "Excalidraw/Drawing 2025-11-02 11.57.25.excalidraw.md",
-    "Excalidraw",
+    "Midterm.md",
+    "Textbook/Concepts of Programming Languages.md",
+    "Textbook/Chapter 1/1.7.md",
     "Textbook/Chapter 1",
-    "Class Notes/Merp",
+    "Textbook/Chapter 5/Variables.md",
+    "Textbook/Chapter 5",
+    "Textbook",
     "Class Notes/Slides",
     "Class Notes",
-    "Tags",
-    "Class/Slides 1",
-    "Class",
-    "Textbook"
+    "Chapter 5"
   ]
 }

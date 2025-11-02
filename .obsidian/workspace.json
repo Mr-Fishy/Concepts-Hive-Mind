@@ -11,10 +11,14 @@
             "id": "cd288dd3f5aaa2c6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Textbook/Chapter 3/3.5.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "3.5"
             }
           }
         ]
@@ -187,20 +191,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0d0deff666918374",
+  "active": "cd288dd3f5aaa2c6",
   "lastOpenFiles": [
-    "Textbook/Chapter 3/3.3.md",
     "Textbook/Chapter 3/3.4.md",
-    "conflict-files-obsidian-git.md",
-    "Textbook/Chapter 3/Chapter 3.md",
-    "Textbook/Chapter 3/3.5.md",
     "Textbook/Chapter 3/3.2.md",
+    "Textbook/Chapter 3/3.3.md",
+    "Textbook/Chapter 1/1.1.md",
+    "Midterm.md",
+    "Textbook/Chapter 3/3.5.md",
+    "Textbook/Chapter 3/Chapter 3.md",
+    "conflict-files-obsidian-git.md",
     "Textbook/Chapter 3/3.1.md",
     "Textbook/Chapter 3",
     "Textbook/Chapter 1/Chapter 1.md",
-    "Textbook/Chapter 1/1.1.md",
     "Textbook/Chapter 1/1.2.md",
-    "Midterm.md",
     "Textbook/Chapter 5/Introduction.md",
     "Textbook/Chapter 5/Variables.md",
     "Class Notes/Slides/Programming Language Evaluation.md",

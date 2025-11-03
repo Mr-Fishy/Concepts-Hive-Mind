@@ -57,7 +57,9 @@
     "obsidian-sync-space-config"
   ],
   "spaceSubFolder": ".space",
-  "hiddenFiles": [],
+  "hiddenFiles": [
+    "Textbook/Chapter 4/4.3 the parsing problem/4.3.3 bottom up parsers.md"
+  ],
   "hiddenExtensions": [
     ".mdb",
     "_assets",

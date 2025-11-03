@@ -1,6 +1,7 @@
 [
-  "make-md",
+  "obsidian-git",
+  "better-mindmap",
   "obsidian-chartsview-plugin",
   "dataview",
-  "mermaid-tools"
+  "make-md"
 ]

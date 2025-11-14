@@ -5,10 +5,12 @@ Meemorruy
 ```mermaid
 flowchart TB
 
-subgraph sdf
+subgraph stuff
 	stack(Stack Segment)
 	data(Data Segment)
 	code(Code Segment)
+end
 
-heap(Heap Segment)<-->sdf
+heap(Heap Segment)<-->stuff
 ```
+
